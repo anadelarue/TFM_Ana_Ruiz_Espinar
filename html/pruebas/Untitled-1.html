@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <title>Document</title>
+    <style>
+        body {
+            background-color: green;
+            transition: 0.3s background-color;
+            height: 1200px;
+            margin: 0;
+            padding: 0;
+        }
+        body.changeColor {
+            background-color: #15202b;
+        }
+        .letras{
+            margin-top: 40%;
+            width: 60%;
+            margin-left: 30%;
+            font-size: 4rem;
+        }
+        .letras.changeColor{
+            color: blue;
+        }
+        .dot {
+            height: 25px;
+            width: 25px;
+            border-radius: 50%;
+            display: inline-block;
+          }
+        .dot:hover{
+          background-color: #040506;
+          cursor: pointer;
+        }
+        #twitter{
+          height: 100%;
+          width: 100%;
+        }  
+    </style>
+</head>
+<body>
+    <div class="letras">
+        Hola Hola Hola
+    </div>
+    <a href="https://anadelarue.cargo.site/"><span class="dot"><img src="ejemplo.svg" id="twitter"></span></a>
+    
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="scripts.js"></script>
+<script>
+$(function() {
+  $(window).scroll(function() {
+    if( $(this).scrollTop() > 100 ) {
+      $('body').addClass('changeColor');
+    } else {
+      $('body').removeClass('changeColor');
+    }
+  })
+})
+$(function() {
+  $(window).scroll(function() {
+    if( $(this).scrollTop() > 100 ) {
+      $('.letras').addClass('changeColor');
+    } else {
+      $('.letras').removeClass('changeColor');
+    }
+  })
+})
+
+</script>
+</body>
+</html>

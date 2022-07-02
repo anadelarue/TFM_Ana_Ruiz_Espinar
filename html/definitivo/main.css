@@ -1,0 +1,259 @@
+body, html{
+    background-color: #15202b;
+    transition: 0.3s background-color;
+}
+
+
+.laura{
+    width: 15vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30vh;
+}
+
+.libros{
+    width: 15vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15vh;
+}
+
+.avion{
+    width: 15vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 70vh;
+}
+
+.texto_inicio{
+    font-size: 150%;
+    font-family: 'Playfair Display';
+    color: #ddd;
+    text-align: center;
+    font-weight: 500;
+    line-height: 2.1rem;
+    margin-top: 45vh;
+}
+
+.ultimo_parrafo{
+    margin-bottom: 45%;
+}
+
+.titulo{
+    font-family: 'Playfair Display';
+    color: #ddd;
+    font-size: 350%;
+    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: 0.2rem;
+}
+
+
+.seccion{
+    font-family: 'Playfair Display';
+    color: #ddd;
+    font-size: 140%;
+}
+
+
+.autoria{
+    font-family: 'Lato';
+    font-weight: bold;
+    color: #ddd;
+    font-size: 1.2em;
+}
+
+
+.fecha{
+    font-family: 'Lato';
+    color: #ddd;
+    font-size: 1em;
+}
+
+
+.dot {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.dot:hover{
+  background-color: #040506;
+  cursor: pointer;
+}
+#twitter{
+  height: 100%;
+  width: 100%;
+}
+
+.contacto{
+    margin-bottom: 5%;
+}
+
+.parrafo{
+    font-size: 1.25rem;
+    color: #ddd;
+    font-family: 'Playfair Display';
+}
+
+strong
+{
+background:white;
+color:#212529;
+padding:0 0.3em;
+}
+
+.capitulo{
+    font-size: 1.75rem;
+    color: #ddd;
+    font-family: 'Lato';
+    font-weight: bold;
+}
+
+.titulo_grafico{
+    font-size: 1.5rem;
+    color: #ddd;
+    font-family: 'Lato';
+    font-weight: bold;
+    line-height: 1.25;
+}
+
+.explicacion_grafico{
+    font-size: 1.25rem;
+    color: #ddd;
+    font-family: 'Lato';
+    line-height: 1.2;
+}
+
+.grafico{
+    margin-top: 5%;
+}
+
+.fuente{
+    font-size: 1rem;
+    color: rgba(221, 221, 221, 0.6);
+    font-family: 'Lato';
+}
+
+.enlace_datos{
+    font-size: 1rem;
+    color: rgba(221, 221, 221, 0.6);
+    font-family: 'Lato';
+}
+
+.enlace_datos:hover{
+    color: #fff;
+}
+
+.subtitulo_grafico{
+    font-size: 1.2rem;
+    color: rgba(221, 221, 221);
+    font-family: 'Lato';
+    font-weight: bold;
+    line-height: 1;
+}
+
+.subexplicacion_grafico{
+    font-size: 1rem;
+    color: rgba(221, 221, 221);
+    font-family: 'Lato';
+    margin-top: -5%;
+    line-height: 1.25;
+}
+
+.btn-primary{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: #ddd;
+    border: #ddd 1px solid;
+    background-color: transparent;
+    font: "Lato";
+}
+
+
+
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary:active{
+    box-shadow:none !important;
+    outline:0px !important;
+    box-shadow: none;
+    background-color: #ddd;
+    border: transparent;
+    color: #14202b;
+}
+.btn-primary:hover,
+.btn-primary:active{
+    background-color: #ddd;
+    color: #14202b;
+    border: #ddd 1px solid;
+}
+
+  /* Estilos para la parte de scrollama */
+  #scrolly {
+    position: relative;
+    background-color: #14202b;
+  }
+  
+  .article-steps {
+    position: relative;
+    padding: 0;
+  }
+  
+  .sticky-thing {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /*background-color: #8a8a8a;*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    z-index: 0;
+    top: 1vh;
+    height: 99vh;
+    /* Center everything inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease;
+ }
+  
+  .sticky-thing p {
+    font-size: 12pt;
+    color: #ddd;
+  }
+  
+  .step {
+    margin: 0 auto 1000px auto;
+    color: #ddd;
+    font-family: 'Lato';
+    line-height: 1.25rem;
+  }
+  
+  .step:last-child {
+    margin-bottom: 0;
+  }
+  
+  .step p {
+    text-align: left;
+    padding: 1.25rem;
+    font-size: 1.1rem;
+    background-color: rgba(20, 20, 20, 0.8);
+    border: #ddd solid 1px;
+  }
+  .word{
+      border-bottom: 1pt solid #cc7e42;
+      font-weight: bold;
+  }
+  /* Estilos para la parte de scrollama */
+
+.img_7b{
+    height: 88%;
+}
+

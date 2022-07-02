@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="main_alquiler.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
+  <!--DataTables-->
+  <link rel="stylesheet" href="main_table.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.1/css/dataTables.bootstrap5.min.css">
+  <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" language="javascript" 
+  src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.11.1/js/dataTables.bootstrap5.min.js"></script>
+    
+  <title>Document</title>
+</head>
+<body>
+<article class="main">
+  <div class="linea_uno"></div>
+  <div class="linea_dos"></div>
+  <div class="linea_tres"></div>
+  <div class="linea_cuatro"></div>
+  <div class="portada">
+  <div class="titulo_uno">Lorem ipsum</div>
+  <div class="titulo_dos">Lorem ipsum</div>
+  <div class="descripcion">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel erat metus. Sed in auctor metus. Sed malesuada imperdiet sapien, ac fermentum nisi.</div> 
+  <div class="autor">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel erat metus.</div>
+  </div>
+  <div class="text_wrapper">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia, ullam recusandae enim veniam quas expedita laudantium, ex, laborum rem facere qui tempore quod.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque ipsam atque ducimus repellat eveniet, saepe quibusdam aliquid aspernatur ipsum laudantium quidem cupiditate consectetur illo voluptatibus blanditiis quae consequatur, perspiciatis similique.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore soluta quis, quisquam odit neque possimus id? Tempore hic dolor numquam, ipsam incidunt, atque illo explicabo voluptatibus nihil consequatur at quod!</p>
+  </div>
+  <div class="text_wrapper">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia, ullam recusandae enim veniam quas expedita laudantium, ex, laborum rem facere qui tempore quod.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque ipsam atque ducimus repellat eveniet, saepe quibusdam aliquid aspernatur ipsum laudantium quidem cupiditate consectetur illo voluptatibus blanditiis quae consequatur, perspiciatis similique.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore soluta quis, quisquam odit neque possimus id? Tempore hic dolor numquam, ipsam incidunt, atque illo explicabo voluptatibus nihil consequatur at quod!</p>
+  </div>
+  <div class="titulo_mapas">
+    <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia</p>
+  </div>
+
+  <section id="scrolly">
+    <div class="sticky-thing">
+    </div>
+    <article class="article-steps">
+      <div class="step" data-url='url("mapa_alquiler_barcelona_tres.png")'>
+        <p><br><br>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit qui consectetur enim nostrum voluptatibus tempore eos, obcaecati amet laudantium quo rerum quas rem accusantium necessitatibus doloribus non excepturi magnam perspiciatis.<br><img alt="grafico_prueba" src="grafico_prueba.png" style="width: 100%; height: 100%; margin-top: 5%"></p>
+      </div>
+      <div class="step" data-url='url("mapa_alquiler_madrid_cuatro.png")'>
+        <p>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+      <div class="step" data-url='url("mapa_alquiler_malaga_tres.png")'>
+        <p>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+      <div class="step" data-url='url("mapa_alquiler_sevilla_tres.png")'>
+        <p>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+      <div class="step" data-url='url("mapa_alquiler_zaragoza_tres.png")'>
+        <p>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+      <div class="step" data-url='url("mapa_alquiler_valencia_tres.png")'>
+        <p>Lorem <span class="word">ipsum</span> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+    </article>
+  </section>
+  <div class="text_wrapper">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia, ullam recusandae enim veniam quas expedita laudantium, ex, laborum rem facere qui tempore quod.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque ipsam atque ducimus repellat eveniet, saepe quibusdam aliquid aspernatur ipsum laudantium quidem cupiditate consectetur illo voluptatibus blanditiis quae consequatur, perspiciatis similique.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore soluta quis, quisquam odit neque possimus id? Tempore hic dolor numquam, ipsam incidunt, atque illo explicabo voluptatibus nihil consequatur at quod!</p>
+  </div>
+  <div class="titulo_mapas">
+    <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia</p>
+  </div>
+  <table id="example" class="table table-bordered" style="width: 70%; color: #ddd;">
+    <thead>
+        <tr style="color:#ddd">
+            <th style="width: 10%">Número de viviendas</th>
+            <th style="width: 10%">Tamaño de la vivienda</th>
+            <th style="width: 10%">Comunidad autónoma</th>
+            <th style="width: 10%">Municipio</th>
+            <th style="width: 10%">Precio medio de la vivienda</th>
+        </tr>
+    </thead>
+</table>
+  <div class="text_wrapper">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod animi facere voluptatem doloremque iusto? Autem mollitia, ullam recusandae enim veniam quas expedita laudantium, ex, laborum rem facere qui tempore quod.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque ipsam atque ducimus repellat eveniet, saepe quibusdam aliquid aspernatur ipsum laudantium quidem cupiditate consectetur illo voluptatibus blanditiis quae consequatur, perspiciatis similique.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore soluta quis, quisquam odit neque possimus id? Tempore hic dolor numquam, ipsam incidunt, atque illo explicabo voluptatibus nihil consequatur at quod!</p>
+  </div>
+</article>
+
+</body>
+<script>
+    $(document).ready(function() {
+        $('#example').DataTable( {
+            "ajax": "tabla_alquiler.json",
+            "columns" : [
+                { "data" : "numero_viviendas" },
+                { "data" : "superficie_vivienda" },
+                { "data" : "comunidad_autonoma" },
+                { "data" : "municipio" },
+                { "data" : "precio_estimado" }
+            ],
+            "ordering": false,
+            bAutoWidth: false,
+            "language":{
+            "lengthMenu": "Mostrar _MENU_ resultados",
+            "search": "Buscar:"
+            }
+        } );
+    } );
+    </script>
+
+<script>
+anime({
+  targets: '.linea_uno',
+  width: '100%', // -> from '28px' to '100%',
+  easing: 'easeInOutSine'
+});
+anime({
+  targets: '.linea_dos',
+  width: '100%', // -> from '28px' to '100%',
+  easing: 'easeInOutSine',
+  delay: 200
+});
+anime({
+  targets: '.linea_tres',
+  translateY: 575,
+  easing: 'easeInOutSine',
+  delay: 400
+});
+anime({
+  targets: '.linea_cuatro',
+  translateY: 575,
+  easing: 'easeInOutSine',
+  delay: 600
+});
+anime({
+  targets: '.titulo_uno',
+  translateX: 1650,
+  easing: 'easeInOutSine',
+  delay: 800
+});
+anime({
+  targets: '.titulo_dos',
+  translateX: 1650,
+  easing: 'easeInOutSine',
+  direction: 'reverse',
+  delay: 1000
+});
+</script>
+
+<script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+<script src="https://unpkg.com/scrollama"></script>
+<script src="scrollama_mapas.js"></script>
+
+
+<div style="display: none;">
+  <img src="img/mapa_alquiler_barcelona_tres.png" width="1" height="1" alt="">
+  <img src="img/mapa_alquiler_madrid_cuatro.png" width="1" height="1" alt="">
+  <img src="img/mapa_alquiler_malaga_tres.png" width="1" height="1" alt="">
+  <img src="img/mapa_alquiler_valencia_tres.png" width="1" height="1" alt="">
+</div>
+</html>

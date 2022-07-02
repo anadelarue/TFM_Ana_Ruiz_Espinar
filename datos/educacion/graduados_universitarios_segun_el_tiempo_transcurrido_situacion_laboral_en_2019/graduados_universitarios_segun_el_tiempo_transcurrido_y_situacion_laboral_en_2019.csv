@@ -1,0 +1,71 @@
+Sexo;Situación laboral en 2019;Tiempo transcurrido desde que acabaron la carrera hasta su primer empleo;Total
+Hombres;Trabajando;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;25.490
+Hombres;Trabajando;Menos de tres meses;20.978
+Hombres;Trabajando;De 3 a 6 meses;9.197
+Hombres;Trabajando;De 6 meses a 1 año;9.352
+Hombres;Trabajando;De 1 año a año y medio;7.556
+Hombres;Trabajando;De 1 año y medio a 2 años;4.393
+Hombres;Trabajando;2 o más años;7.569
+Hombres;Trabajando: continúa en su primer empleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;14.097
+Hombres;Trabajando: continúa en su primer empleo;Menos de tres meses;4.708
+Hombres;Trabajando: continúa en su primer empleo;De 3 a 6 meses;1.962
+Hombres;Trabajando: continúa en su primer empleo;De 6 meses a 1 año;2.108
+Hombres;Trabajando: continúa en su primer empleo;De 1 año a año y medio;2.551
+Hombres;Trabajando: continúa en su primer empleo;De 1 año y medio a 2 años;1.561
+Hombres;Trabajando: continúa en su primer empleo;2 o más años;3.914
+Hombres;Trabajando: no continúa en su primer empleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;11.393
+Hombres;Trabajando: no continúa en su primer empleo;Menos de tres meses;16.270
+Hombres;Trabajando: no continúa en su primer empleo;De 3 a 6 meses;7.235
+Hombres;Trabajando: no continúa en su primer empleo;De 6 meses a 1 año;7.244
+Hombres;Trabajando: no continúa en su primer empleo;De 1 año a año y medio;5.005
+Hombres;Trabajando: no continúa en su primer empleo;De 1 año y medio a 2 años;2.832
+Hombres;Trabajando: no continúa en su primer empleo;2 o más años;3.654
+Hombres;En desempleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;875
+Hombres;En desempleo;Menos de tres meses;1.236
+Hombres;En desempleo;De 3 a 6 meses;678
+Hombres;En desempleo;De 6 meses a 1 año;902
+Hombres;En desempleo;De 1 año a año y medio;782
+Hombres;En desempleo;De 1 año y medio a 2 años;392
+Hombres;En desempleo;2 o más años;942
+Hombres;Inactivo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;798
+Hombres;Inactivo;Menos de tres meses;794
+Hombres;Inactivo;De 3 a 6 meses;612
+Hombres;Inactivo;De 6 meses a 1 año;561
+Hombres;Inactivo;De 1 año a año y medio;471
+Hombres;Inactivo;De 1 año y medio a 2 años;261
+Hombres;Inactivo;2 o más años;499
+Mujeres;Trabajando;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;33.248
+Mujeres;Trabajando;Menos de tres meses;25.347
+Mujeres;Trabajando;De 3 a 6 meses;12.978
+Mujeres;Trabajando;De 6 meses a 1 año;13.826
+Mujeres;Trabajando;De 1 año a año y medio;11.470
+Mujeres;Trabajando;De 1 año y medio a 2 años;6.597
+Mujeres;Trabajando;2 o más años;11.570
+Mujeres;Trabajando: continúa en su primer empleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;16.484
+Mujeres;Trabajando: continúa en su primer empleo;Menos de tres meses;5.492
+Mujeres;Trabajando: continúa en su primer empleo;De 3 a 6 meses;2.659
+Mujeres;Trabajando: continúa en su primer empleo;De 6 meses a 1 año;2.691
+Mujeres;Trabajando: continúa en su primer empleo;De 1 año a año y medio;3.729
+Mujeres;Trabajando: continúa en su primer empleo;De 1 año y medio a 2 años;2.187
+Mujeres;Trabajando: continúa en su primer empleo;2 o más años;5.120
+Mujeres;Trabajando: no continúa en su primer empleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;16.764
+Mujeres;Trabajando: no continúa en su primer empleo;Menos de tres meses;19.855
+Mujeres;Trabajando: no continúa en su primer empleo;De 3 a 6 meses;10.319
+Mujeres;Trabajando: no continúa en su primer empleo;De 6 meses a 1 año;11.135
+Mujeres;Trabajando: no continúa en su primer empleo;De 1 año a año y medio;7.742
+Mujeres;Trabajando: no continúa en su primer empleo;De 1 año y medio a 2 años;4.410
+Mujeres;Trabajando: no continúa en su primer empleo;2 o más años;6.449
+Mujeres;En desempleo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;1.947
+Mujeres;En desempleo;Menos de tres meses;2.041
+Mujeres;En desempleo;De 3 a 6 meses;1.168
+Mujeres;En desempleo;De 6 meses a 1 año;1.380
+Mujeres;En desempleo;De 1 año a año y medio;1.401
+Mujeres;En desempleo;De 1 año y medio a 2 años;842
+Mujeres;En desempleo;2 o más años;1.509
+Mujeres;Inactivo;Continuó al menos 6 meses más en el trabajo que tenía mientras estudiaba;1.566
+Mujeres;Inactivo;Menos de tres meses;1.607
+Mujeres;Inactivo;De 3 a 6 meses;916
+Mujeres;Inactivo;De 6 meses a 1 año;924
+Mujeres;Inactivo;De 1 año a año y medio;898
+Mujeres;Inactivo;De 1 año y medio a 2 años;427
+Mujeres;Inactivo;2 o más años;1.091

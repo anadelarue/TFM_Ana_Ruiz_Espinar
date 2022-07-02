@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='1152.00pt' height='576.00pt' viewBox='0 0 1152.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxMTUyLjAwfDAuMDB8NTc2LjAw'>
+    <rect x='0.00' y='0.00' width='1152.00' height='576.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NTc2LjAw)'>
+<rect x='0.00' y='0.00' width='1152.00' height='576.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzMuMTR8NTMyLjMwfDUuNDh8NTQ0LjUw'>
+    <rect x='33.14' y='5.48' width='499.16' height='539.02' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzMuMTR8NTMyLjMwfDUuNDh8NTQ0LjUw)'>
+<rect x='33.14' y='5.48' width='499.16' height='539.02' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' />
+<polyline points='33.14,464.68 532.30,464.68 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='33.14,297.55 532.30,297.55 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='33.14,130.43 532.30,130.43 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='33.14,381.12 532.30,381.12 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='33.14,213.99 532.30,213.99 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='33.14,46.86 532.30,46.86 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='81.44,544.50 81.44,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='161.95,544.50 161.95,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='242.46,544.50 242.46,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='322.97,544.50 322.97,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='403.49,544.50 403.49,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='484.00,544.50 484.00,5.48 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='81.44,255.44 161.95,150.81 242.46,29.98 322.97,63.07 403.49,141.12 484.00,226.36 ' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' />
+<polyline points='81.44,517.33 161.95,492.93 242.46,498.61 322.97,480.39 403.49,470.20 484.00,472.87 ' style='stroke-width: 1.07; stroke: #DE8C00; stroke-linecap: butt;' />
+<polyline points='81.44,415.38 161.95,390.14 242.46,458.83 322.97,465.02 403.49,490.59 484.00,473.37 ' style='stroke-width: 1.07; stroke: #B79F00; stroke-linecap: butt;' />
+<polyline points='81.44,392.98 161.95,390.14 242.46,373.26 322.97,380.45 403.49,335.16 484.00,348.19 ' style='stroke-width: 1.07; stroke: #7CAE00; stroke-linecap: butt;' />
+<polyline points='81.44,457.66 161.95,443.46 242.46,430.42 322.97,444.29 403.49,462.34 484.00,408.53 ' style='stroke-width: 1.07; stroke: #00BA38; stroke-linecap: butt;' />
+<polyline points='81.44,494.10 161.95,497.11 242.46,498.28 322.97,493.60 403.49,489.75 484.00,501.45 ' style='stroke-width: 1.07; stroke: #00C08B; stroke-linecap: butt;' />
+<polyline points='81.44,69.09 161.95,232.21 242.46,337.00 322.97,363.57 403.49,347.19 484.00,330.81 ' style='stroke-width: 1.07; stroke: #00BFC4; stroke-linecap: butt;' />
+<polyline points='81.44,520.00 161.95,507.97 242.46,512.82 322.97,475.21 403.49,494.26 484.00,499.78 ' style='stroke-width: 1.07; stroke: #00B4F0; stroke-linecap: butt;' />
+<polyline points='81.44,429.42 161.95,449.47 242.46,467.52 322.97,450.64 403.49,463.51 484.00,444.79 ' style='stroke-width: 1.07; stroke: #619CFF; stroke-linecap: butt;' />
+<polyline points='81.44,429.08 161.95,419.73 242.46,388.97 322.97,379.61 403.49,327.97 484.00,329.98 ' style='stroke-width: 1.07; stroke: #C77CFF; stroke-linecap: butt;' />
+<polyline points='81.44,462.01 161.95,449.14 242.46,428.08 322.97,413.88 403.49,399.67 484.00,385.97 ' style='stroke-width: 1.07; stroke: #F564E3; stroke-linecap: butt;' />
+<polyline points='81.44,465.35 161.95,484.40 242.46,483.74 322.97,497.94 403.49,486.08 484.00,485.74 ' style='stroke-width: 1.07; stroke: #FF64B0; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NTc2LjAw)'>
+<text x='28.21' y='384.27' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='28.21' y='217.14' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='28.21' y='50.01' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='9.79px' lengthAdjust='spacingAndGlyphs'>30</text>
+<polyline points='30.40,381.12 33.14,381.12 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='30.40,213.99 33.14,213.99 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='30.40,46.86 33.14,46.86 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='81.44,547.24 81.44,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='161.95,547.24 161.95,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='242.46,547.24 242.46,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='322.97,547.24 322.97,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='403.49,547.24 403.49,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='484.00,547.24 484.00,544.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='81.44' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='72.43px' lengthAdjust='spacingAndGlyphs'>Menos de 25 años</text>
+<text x='161.95' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.61px' lengthAdjust='spacingAndGlyphs'>De 25 a 29 años</text>
+<text x='242.46' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.61px' lengthAdjust='spacingAndGlyphs'>De 30 a 34 años</text>
+<text x='322.97' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.61px' lengthAdjust='spacingAndGlyphs'>De 35 a 39 años</text>
+<text x='403.49' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.61px' lengthAdjust='spacingAndGlyphs'>De 40 a 44 años</text>
+<text x='484.00' y='555.74' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='64.61px' lengthAdjust='spacingAndGlyphs'>De 45 a 49 años</text>
+<text x='282.72' y='568.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>edad</text>
+<text transform='translate(13.36,274.99) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='20.80px' lengthAdjust='spacingAndGlyphs'>total</text>
+<rect x='543.26' y='157.99' width='603.26' height='233.99' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='548.74' y='172.51' style='font-size: 11.00px; font-family: "Arial";' textLength='28.14px' lengthAdjust='spacingAndGlyphs'>grupo</text>
+<rect x='548.74' y='179.15' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='187.79' x2='564.29' y2='187.79' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' />
+<rect x='548.74' y='196.43' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='205.07' x2='564.29' y2='205.07' style='stroke-width: 1.07; stroke: #DE8C00; stroke-linecap: butt;' />
+<rect x='548.74' y='213.71' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='222.35' x2='564.29' y2='222.35' style='stroke-width: 1.07; stroke: #B79F00; stroke-linecap: butt;' />
+<rect x='548.74' y='230.99' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='239.63' x2='564.29' y2='239.63' style='stroke-width: 1.07; stroke: #7CAE00; stroke-linecap: butt;' />
+<rect x='548.74' y='248.27' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='256.91' x2='564.29' y2='256.91' style='stroke-width: 1.07; stroke: #00BA38; stroke-linecap: butt;' />
+<rect x='548.74' y='265.55' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='274.19' x2='564.29' y2='274.19' style='stroke-width: 1.07; stroke: #00C08B; stroke-linecap: butt;' />
+<rect x='548.74' y='282.83' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='291.47' x2='564.29' y2='291.47' style='stroke-width: 1.07; stroke: #00BFC4; stroke-linecap: butt;' />
+<rect x='548.74' y='300.11' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='308.75' x2='564.29' y2='308.75' style='stroke-width: 1.07; stroke: #00B4F0; stroke-linecap: butt;' />
+<rect x='548.74' y='317.39' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='326.03' x2='564.29' y2='326.03' style='stroke-width: 1.07; stroke: #619CFF; stroke-linecap: butt;' />
+<rect x='548.74' y='334.67' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='343.31' x2='564.29' y2='343.31' style='stroke-width: 1.07; stroke: #C77CFF; stroke-linecap: butt;' />
+<rect x='548.74' y='351.95' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='360.59' x2='564.29' y2='360.59' style='stroke-width: 1.07; stroke: #F564E3; stroke-linecap: butt;' />
+<rect x='548.74' y='369.23' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<line x1='550.47' y1='377.87' x2='564.29' y2='377.87' style='stroke-width: 1.07; stroke: #FF64B0; stroke-linecap: butt;' />
+<text x='571.50' y='190.94' style='font-size: 8.80px; font-family: "Arial";' textLength='243.68px' lengthAdjust='spacingAndGlyphs'>Aumento de la duración del permiso de maternidad/paternidad</text>
+<text x='571.50' y='208.22' style='font-size: 8.80px; font-family: "Arial";' textLength='347.80px' lengthAdjust='spacingAndGlyphs'>Campañas de concienciación para los empresarios sobre la conciliación familiar y laboral</text>
+<text x='571.50' y='225.50' style='font-size: 8.80px; font-family: "Arial";' textLength='436.95px' lengthAdjust='spacingAndGlyphs'>Equiparación de la duración del permiso de paternidad al permiso de maternidad para los hombres que trabajan</text>
+<text x='571.50' y='242.78' style='font-size: 8.80px; font-family: "Arial";' textLength='313.63px' lengthAdjust='spacingAndGlyphs'>Flexibilidad en el horario de trabajo para los padres-madres con niños pequeños</text>
+<text x='571.50' y='260.06' style='font-size: 8.80px; font-family: "Arial";' textLength='318.56px' lengthAdjust='spacingAndGlyphs'>Más escuelas infantiles asequibles y de calidad para niños de 0 a 3 años de edad</text>
+<text x='571.50' y='277.34' style='font-size: 8.80px; font-family: "Arial";' textLength='351.80px' lengthAdjust='spacingAndGlyphs'>Mejoras en las condiciones de excedencias y reducciones de jornada por cuidado de hijos</text>
+<text x='571.50' y='294.62' style='font-size: 8.80px; font-family: "Arial";' textLength='179.10px' lengthAdjust='spacingAndGlyphs'>No cree que la natalidad deba ser incentivada</text>
+<text x='571.50' y='311.90' style='font-size: 8.80px; font-family: "Arial";' textLength='569.54px' lengthAdjust='spacingAndGlyphs'>Servicio de guardería para niños en edad escolar antes y después de la escuela y durante las vacaciones escolares en el mismo centro educativo</text>
+<text x='571.50' y='329.18' style='font-size: 8.80px; font-family: "Arial";' textLength='267.19px' lengthAdjust='spacingAndGlyphs'>Una asignación en función de la renta en el nacimiento de cada niño</text>
+<text x='571.50' y='346.46' style='font-size: 8.80px; font-family: "Arial";' textLength='278.40px' lengthAdjust='spacingAndGlyphs'>Una asignación para las familias con hijos a cargo menores de 18 años</text>
+<text x='571.50' y='363.74' style='font-size: 8.80px; font-family: "Arial";' textLength='472.21px' lengthAdjust='spacingAndGlyphs'>Una asignación para las madres o padres que dejan un trabajo porque quieren cuidar a los niños mientras son pequeños</text>
+<text x='571.50' y='381.02' style='font-size: 8.80px; font-family: "Arial";' textLength='217.74px' lengthAdjust='spacingAndGlyphs'>Una asignación universal en el nacimiento de cada niño</text>
+</g>
+</svg>

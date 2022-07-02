@@ -1,0 +1,287 @@
+html{
+    background-color: #14202b;
+  }
+  body{
+      margin: 0;
+      padding: 0;
+      background-color: #14202b;
+  }
+  
+  .portada{
+      width: 100vw;
+      height: 100vh;
+      background-color: #14202b;
+  }
+  .titulo_uno{
+      position: absolute;
+      color: #ddd;
+      font-family: 'Playfair Display';
+      font-size: 45pt;
+      font-weight: 500;
+      margin-left: -100%;
+      top: 30%;
+  
+  }
+  .titulo_dos{
+      position: absolute;
+      color: #ddd;
+      font-family: 'Playfair Display';
+      font-size: 45pt;
+      font-weight: 500;
+      margin-left: 40%;
+      top: 40%;
+  }
+  .descripcion{
+      position: absolute;
+      color: #ddd;
+      font-size: 16pt;
+      font-family: 'Playfair Display';
+      width: 60%;
+      left: 20%;
+      top: 60%;
+  }
+  .autor{
+      position: absolute;
+      color: #ddd;
+      font-size: 13pt;
+      font-family: 'Franklin Gothic Book';
+      width: 60%;
+      left: 20%;
+      top: 72%;
+      text-transform: uppercase;
+  }
+  .linea_uno{
+      width: 10px;
+      height: 2px;
+      background-color:#ddd;
+      position: absolute;
+      top: 5%;
+  }
+  .linea_dos{
+      width: 10px;
+      height: 2px;
+      background-color: #ddd;
+      position: absolute;
+      bottom: 5%;
+  }
+  .linea_tres{
+      top: -100%;
+      width: 2px;
+      height: 100vh;
+      background-color: #ddd;
+      position: absolute;
+      left: 5%;
+  }
+  .linea_cuatro{
+      top: -100%;
+      width: 2px;
+      height: 100vh;
+      background-color: #ddd;
+      position: absolute;
+      right: 5%;
+  }
+  .main{
+    background-color: #14202b;
+  }
+  .text_wrapper{
+      position: relative;
+      width: 50%;
+      margin-left: 25%;
+      margin-bottom: 10%;
+      
+  }
+  .text_wrapper > p{
+      font-family: 'Playfair Display';
+      color: #ddd;
+      font-size: 14pt;
+  }
+  .titulo_mapas{
+    width: 60%;
+    color: #ddd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30pt;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4%;
+  }
+  .titulo_mapas > p{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    color: #ddd;
+  }
+  /* Estilos para la parte de scrollama */
+  #scrolly {
+    position: relative;
+    background-color: #14202b;
+  }
+  
+  .article-steps {
+    position: relative;
+    padding: 0;
+    max-width: 35%;
+    margin-left: 55%;
+  }
+  
+  .sticky-thing {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /*background-color: #8a8a8a;*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    z-index: 0;
+    top: 1vh;
+    height: 99vh;
+    /* Center everything inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease;
+  }
+  
+  .sticky-thing p {
+    font-size: 10pt;
+    color: #ddd;
+  }
+  
+  .step {
+    margin: 0 auto 1000px auto;
+    color: #ddd;
+    font-family: 'Franklin Gothic Book';
+    line-height: 1.2em;
+  }
+  
+  .step:last-child {
+    margin-bottom: 0;
+  }
+  
+  .step p {
+    text-align: left;
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: rgba(20, 20, 20, 0.8);
+    border: #ddd solid 1px;
+  }
+  /*Estilos tabla*/
+  #example_wrapper{
+    background-color: #14202b;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  table{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    width: 70%;
+  }
+  table-layout{
+    position: fixed;
+  }
+  
+  #example_length{
+    color: #ddd;
+    margin-left:-10%;
+  }
+  #example_filter{
+    padding-right: 30%;
+    color: #ddd;
+  }
+  
+  thead th {
+    font-size: 14pt;
+    margin-bottom: 3%;
+    height: 15px;
+    border: 0;
+  }
+  tbody{
+    font-size: 12pt;
+  }
+  table tr:first-child td {
+    border-top: 0;
+  }
+  table tr td:first-child {
+    border-left: 0;
+  }
+  table tr:last-child td {
+    border-bottom: 0;
+  }
+  table tr td:last-child {
+    border-right: 0;
+  }
+  tbody tr:hover {background-color: #212e3b;}
+  
+  .pagination > li.active > a, .pagination > li.active > span{
+    background-color:#212e3b;
+  }
+  .pagination{
+    padding-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .pagination .page-item .page-link{
+    background-color: #14202b;
+    color: #ddd;
+    border: #ddd 1px solid;
+    box-shadow: none;
+  }
+  .pagination .page-item.active .page-link{
+    background-color: #ddd;
+    color: #212e3b;
+    border: #ddd 1px solid;
+    z-index: 3;
+    box-shadow: none;
+    
+  }
+  .pagination .page-link:hover {
+    background-color: #212e3b;
+    color: #ddd;
+  }
+  .pagination .page-item:last-child .page-link{
+    background-color: #14202b;
+    color: #ddd;
+    border-radius: 0;
+  
+  }
+  .pagination .page-item:first-child .page-link{
+    background-color: #14202b;
+    color: #ddd;
+    border-radius: 0;
+  }
+  .pagination > li > a{
+    border: 0;
+  }
+  .pagination .page-item.disabled .page-link{
+    background-color: #14202b;
+    color: #ddd;
+  }
+  div.dataTables_wrapper div.dataTables_filter input{
+    background-color: #14202b;
+    border-radius: 0;
+  }
+  div.dataTables_wrapper div.dataTables_filter label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+  }
+  div.dataTables_wrapper div.dataTables_length select{
+    background-color: #14202b;
+    border: #ddd 1px solid;
+    border-radius: 0;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: none;
+    color: #ddd;
+  }
+  div.dataTables_wrapper div.dataTables_length select > option{
+    border: 1px solid #ddd;
+  }
+  .word{
+    border-bottom: #d78441 1.5px solid;
+  }
+  
+  
+  
